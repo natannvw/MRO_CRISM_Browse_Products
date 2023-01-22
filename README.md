@@ -8,7 +8,7 @@
 
 Usage:
 1. Get scene files:
-For example [FRT00009326](https://ode.rsl.wustl.edu/mars/productsearch) scene.
+For example [FRT00009326](https://ode.rsl.wustl.edu/mars/indexproductpage.aspx?product_idgeo=27946848&product_id=FRT00009326_07_IF167J_MTR3) scene.
 
 2. Run:
 ````matlab
